@@ -1,6 +1,6 @@
 
 
-a=1
+a=5
 
 b=2
 console.log(a+b)       
